@@ -7,8 +7,11 @@ Real-time score tracking
 Simple and intuitive controls
 Playable on desktop and mobile devices
 Customizable speed and difficulty levels
+
 🚀 How to Run the Project
+
 Clone the repository
+
 "git clone https://github.com/TheIonius/snake-game.git"
 
 Navigate to the project folder:
