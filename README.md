@@ -1,11 +1,6 @@
 🐍 Snake Game
 Welcome to the Snake Game repository! This project is a fun, classic implementation of the Snake game built using HTML, CSS, and JavaScript (or Python, depending on what you used).
 
-🎮 Demo
-You can play the game live here: Snake Game Live Demo
-
-(Replace the # with your demo URL if available)
-
 📋 Features
 Smooth and responsive snake movement
 Real-time score tracking
