@@ -40,5 +40,6 @@ Improve mobile support
 🛠️ Installation and Setup
 Make sure you have a browser installed (for web-based version) or Python (for Python-based).
 Follow the instructions under "How to Run the Project" to start the game.
+
 👤 Author
-Developed by Your Name
+TheIonius
