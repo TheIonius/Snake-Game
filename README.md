@@ -30,16 +30,23 @@ Space: Pause/Resume the game
 (You can customize these based on your game's controls)
 
 📦 Technologies Used
+
 HTML/CSS: For the game layout and design
-JavaScript: For the game logic and interactions (Or Python if that's what you used)
+JavaScript: For the game logic and interactions 
+
 📚 Future Improvements
+
 Add more difficulty levels
-Implement different game modes (e.g., timed mode)
+Implement different game modes
 Add sound effects and background music
+
 Improve mobile support
+
 🛠️ Installation and Setup
+
 Make sure you have a browser installed (for web-based version) or Python (for Python-based).
-Follow the instructions under "How to Run the Project" to start the game.
+Follow the instructions under "How to Run the Project" to start the game
 
 👤 Author
+
 TheIonius
